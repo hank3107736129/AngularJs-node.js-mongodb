@@ -1,0 +1,21 @@
+{
+  "name": "node-api",
+  "version": "0.0.0",
+  "description": "test restful api",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "restful"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "mongodb": "^2.1.16",
+    "mongoose": "^4.4.12",
+    
+  }
+}
